@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a3b4b4-844e-4e6b-802b-a1e557329e20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01/active_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01/while_active_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01/whiles_atividade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/Meu primeiro projeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_programing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="28" />
+    <option name="cachedIndexableFilesCount" value="32" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -34,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Language_programing" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -52,8 +42,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.atividade.executor": "Run",
     "Python.atividade_01.executor": "Run",
+    "Python.atividade_02.executor": "Run",
+    "Python.atividade_03.executor": "Run",
     "Python.decisions.executor": "Run",
+    "Python.dicionario.executor": "Run",
+    "Python.numeros_lista.executor": "Run",
+    "Python.tipos_de_lista.executor": "Run",
+    "Python.tuplas.executor": "Run",
     "Python.while_active_01.executor": "Run",
     "Python.while_with_break_and_continue.executor": "Run",
     "Python.whiles_atividade.executor": "Run",
@@ -96,6 +93,8 @@
       <workItem from="1776373331866" duration="848000" />
       <workItem from="1776374207333" duration="96000" />
       <workItem from="1776376789140" duration="5222000" />
+      <workItem from="1776431474010" duration="1233000" />
+      <workItem from="1776454137180" duration="17120000" />
     </task>
     <servers />
   </component>
@@ -103,10 +102,17 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade_01.coverage" NAME="atividade_01 Coverage Results" MODIFIED="1776367686960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
+    <SUITE FILE_PATH="coverage/E_tech_School$while_active_01.coverage" NAME="while_active_01 Coverage Results" MODIFIED="1776382389797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade_03.coverage" NAME="atividade_03 Coverage Results" MODIFIED="1776474247564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
+    <SUITE FILE_PATH="coverage/E_tech_School$dicionario.coverage" NAME="dicionario Coverage Results" MODIFIED="1776473272854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade_02.coverage" NAME="atividade_02 Coverage Results" MODIFIED="1776471400632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
+    <SUITE FILE_PATH="coverage/E_tech_School$tipos_de_lista.coverage" NAME="tipos_de_lista Coverage Results" MODIFIED="1776465385085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$while_with_break_and_continue.coverage" NAME="while_with_break_and_continue Coverage Results" MODIFIED="1776367164504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
     <SUITE FILE_PATH="coverage/E_tech_School$whiles_atividade.coverage" NAME="whiles_atividade Coverage Results" MODIFIED="1776382847723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
-    <SUITE FILE_PATH="coverage/E_tech_School$atividade_01.coverage" NAME="atividade_01 Coverage Results" MODIFIED="1776367686960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade.coverage" NAME="atividade Coverage Results" MODIFIED="1776468417553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$decisions.coverage" NAME="decisions Coverage Results" MODIFIED="1776376797047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão" />
-    <SUITE FILE_PATH="coverage/E_tech_School$while_active_01.coverage" NAME="while_active_01 Coverage Results" MODIFIED="1776382389797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
+    <SUITE FILE_PATH="coverage/E_tech_School$tuplas.coverage" NAME="tuplas Coverage Results" MODIFIED="1776470439283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
+    <SUITE FILE_PATH="coverage/E_tech_School$numeros_lista.coverage" NAME="numeros_lista Coverage Results" MODIFIED="1776466547225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
   </component>
 </project>
