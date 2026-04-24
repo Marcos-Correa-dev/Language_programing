@@ -1,0 +1,3 @@
+Pedido #39 | Cliente: JOEL | Valor: R$ 44.00
+Pedido #40 | Cliente: Ana | Valor: R$ 1500.00
+Pedido #48 | Cliente: jose | Valor: R$ 49.39
