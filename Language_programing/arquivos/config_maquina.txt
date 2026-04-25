@@ -1,0 +1,3 @@
+nome da maquina: lenovo
+Endereço Ip: 18281929
+Temperatura máxima: 49.0C

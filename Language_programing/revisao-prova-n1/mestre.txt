@@ -1,0 +1,3 @@
+=== CONFIGURAÇÃO: HONDA ===
+Lista de Operadores Autorizados:
+- Operador: ANGELO
