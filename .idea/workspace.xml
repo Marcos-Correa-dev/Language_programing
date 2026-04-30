@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="63" />
+    <option name="cachedIndexableFilesCount" value="69" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -42,59 +42,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ATIVIDIDADE_REVISAO.executor": "Run",
-    "Python.Prova.executor": "Run",
-    "Python.args.executor": "Run",
-    "Python.args2.executor": "Run",
-    "Python.arquivos.executor": "Run",
-    "Python.atividade.executor": "Run",
-    "Python.atividade_01.executor": "Run",
-    "Python.atividade_02.executor": "Run",
-    "Python.atividade_03.executor": "Run",
-    "Python.atividade_04.executor": "Run",
-    "Python.atividade_05.executor": "Run",
-    "Python.atividade_06.executor": "Run",
-    "Python.atividade_revisao_2.executor": "Run",
-    "Python.atividade_self_init.executor": "Run",
-    "Python.caso-uso-completo.executor": "Run",
-    "Python.decisions.executor": "Run",
-    "Python.dicionario.executor": "Run",
-    "Python.initial-functions.executor": "Run",
-    "Python.livro.executor": "Run",
-    "Python.multiplos-valores.executor": "Run",
-    "Python.numeros_lista.executor": "Run",
-    "Python.prova.executor": "Debug",
-    "Python.prova01.executor": "Run",
-    "Python.prova2.executor": "Run",
-    "Python.tipos_de_lista.executor": "Run",
-    "Python.tuplas.executor": "Run",
-    "Python.upper.executor": "Run",
-    "Python.while_active_01.executor": "Run",
-    "Python.while_with_break_and_continue.executor": "Run",
-    "Python.whiles_atividade.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ATIVIDIDADE_REVISAO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prova.executor&quot;: &quot;Run&quot;,
+    &quot;Python.args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.args2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arquivos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_metodos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_metodos_com_if-else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_revisao_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_self_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caso-uso-completo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contabancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decisions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dicionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.initial-functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.livro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplos-valores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeros_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prova.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.prova01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prova2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tipos_de_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.upper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_active_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_with_break_and_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whiles_atividade.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="atividade_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-tech-School" />
@@ -130,7 +133,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.23567.174" />
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
       </set>
     </attachedChunks>
   </component>
@@ -159,7 +163,12 @@
       <workItem from="1777053464713" duration="14804000" />
       <workItem from="1777332997480" duration="1832000" />
       <workItem from="1777381451436" duration="6000" />
-      <workItem from="1777410131062" duration="12304000" />
+      <workItem from="1777410131062" duration="12481000" />
+      <workItem from="1777471844591" duration="628000" />
+      <workItem from="1777477780131" duration="37000" />
+      <workItem from="1777492146346" duration="1487000" />
+      <workItem from="1777502153265" duration="5310000" />
+      <workItem from="1777555916840" duration="599000" />
     </task>
     <servers />
   </component>
@@ -181,7 +190,9 @@
     <SUITE FILE_PATH="coverage/E_tech_School$decisions.coverage" NAME="decisions Coverage Results" MODIFIED="1776376797047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão" />
     <SUITE FILE_PATH="coverage/E_tech_School$args2.coverage" NAME="args2 Coverage Results" MODIFIED="1776906270809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Funções" />
     <SUITE FILE_PATH="coverage/E_tech_School$caso_uso_completo.coverage" NAME="caso-uso-completo Coverage Results" MODIFIED="1777002961890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade_metodos.coverage" NAME="atividade_metodos Coverage Results" MODIFIED="1777509313454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
     <SUITE FILE_PATH="coverage/E_tech_School$prova.coverage" NAME="prova Coverage Results" MODIFIED="1777055963258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
+    <SUITE FILE_PATH="coverage/E_tech_School$atividade_metodos_com_if_else.coverage" NAME="atividade_metodos_com_if-else Coverage Results" MODIFIED="1777510847745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_03.coverage" NAME="atividade_03 Coverage Results" MODIFIED="1776887983400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$multiplos_valores.coverage" NAME="multiplos-valores Coverage Results" MODIFIED="1776904303940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Funções" />
     <SUITE FILE_PATH="coverage/E_tech_School$livro.coverage" NAME="livro Coverage Results" MODIFIED="1777423817644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
@@ -190,6 +201,7 @@
     <SUITE FILE_PATH="coverage/E_tech_School$while_with_break_and_continue.coverage" NAME="while_with_break_and_continue Coverage Results" MODIFIED="1776367164504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
     <SUITE FILE_PATH="coverage/E_tech_School$whiles_atividade.coverage" NAME="whiles_atividade Coverage Results" MODIFIED="1776382847723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
     <SUITE FILE_PATH="coverage/E_tech_School$initial_functions.coverage" NAME="initial-functions Coverage Results" MODIFIED="1776903976309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Funções" />
+    <SUITE FILE_PATH="coverage/E_tech_School$contabancaria.coverage" NAME="contabancaria Coverage Results" MODIFIED="1777503812452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
     <SUITE FILE_PATH="coverage/E_tech_School$prova2.coverage" NAME="prova2 Coverage Results" MODIFIED="1777080336889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/revisao-prova-n1" />
     <SUITE FILE_PATH="coverage/E_tech_School$prova01.coverage" NAME="prova01 Coverage Results" MODIFIED="1777076941549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/revisao-prova-n1" />
     <SUITE FILE_PATH="coverage/E_tech_School$tuplas.coverage" NAME="tuplas Coverage Results" MODIFIED="1776470439283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
