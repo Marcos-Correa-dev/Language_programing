@@ -42,62 +42,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ATIVIDIDADE_REVISAO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prova.executor&quot;: &quot;Run&quot;,
-    &quot;Python.args.executor&quot;: &quot;Run&quot;,
-    &quot;Python.args2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arquivos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_metodos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_metodos_com_if-else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_revisao_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_self_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caso-uso-completo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.contabancaria.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decisions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dicionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.initial-functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.livro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplos-valores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numeros_lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prova.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.prova01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prova2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tipos_de_lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.upper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_active_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_with_break_and_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whiles_atividade.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ATIVIDIDADE_REVISAO.executor": "Run",
+    "Python.Prova.executor": "Run",
+    "Python.args.executor": "Run",
+    "Python.args2.executor": "Run",
+    "Python.arquivos.executor": "Run",
+    "Python.atividade.executor": "Run",
+    "Python.atividade_01.executor": "Run",
+    "Python.atividade_02.executor": "Run",
+    "Python.atividade_03.executor": "Run",
+    "Python.atividade_04.executor": "Run",
+    "Python.atividade_05.executor": "Run",
+    "Python.atividade_06.executor": "Run",
+    "Python.atividade_metodos.executor": "Run",
+    "Python.atividade_metodos_com_if-else.executor": "Run",
+    "Python.atividade_revisao_2.executor": "Run",
+    "Python.atividade_self_init.executor": "Run",
+    "Python.caso-uso-completo.executor": "Run",
+    "Python.contabancaria.executor": "Run",
+    "Python.decisions.executor": "Run",
+    "Python.dicionario.executor": "Run",
+    "Python.initial-functions.executor": "Run",
+    "Python.livro.executor": "Run",
+    "Python.multiplos-valores.executor": "Run",
+    "Python.numeros_lista.executor": "Run",
+    "Python.prova.executor": "Debug",
+    "Python.prova01.executor": "Run",
+    "Python.prova2.executor": "Run",
+    "Python.tipos_de_lista.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "Python.upper.executor": "Run",
+    "Python.while_active_01.executor": "Run",
+    "Python.while_with_break_and_continue.executor": "Run",
+    "Python.whiles_atividade.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/marcos.correa/projects/E-tech-School/Language_programing/POO/Metodos, atributos, construtores, classes -  atividades",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marcos.correa\projects\E-tech-School\Language_programing\POO\Metodos, atributos, construtores, classes -  atividades" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marcos.correa\projects\E-tech-School\Language_programing\POO\Metodos, atributos, construtores, classes -  atividades" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="atividade_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-tech-School" />
@@ -168,7 +177,8 @@
       <workItem from="1777477780131" duration="37000" />
       <workItem from="1777492146346" duration="1487000" />
       <workItem from="1777502153265" duration="5310000" />
-      <workItem from="1777555916840" duration="599000" />
+      <workItem from="1777555916840" duration="2059000" />
+      <workItem from="1777932087556" duration="109000" />
     </task>
     <servers />
   </component>
