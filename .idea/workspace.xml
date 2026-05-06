@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="69" />
+    <option name="cachedIndexableFilesCount" value="72" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -46,6 +46,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ATIVIDIDADE_REVISAO.executor": "Run",
+    "Python.Playermusical.executor": "Run",
+    "Python.Programador_atividade.executor": "Run",
     "Python.Prova.executor": "Run",
     "Python.args.executor": "Run",
     "Python.args2.executor": "Run",
@@ -61,10 +63,14 @@
     "Python.atividade_metodos_com_if-else.executor": "Run",
     "Python.atividade_revisao_2.executor": "Run",
     "Python.atividade_self_init.executor": "Run",
+    "Python.carro.executor": "Run",
     "Python.caso-uso-completo.executor": "Run",
+    "Python.conta.executor": "Debug",
+    "Python.contaSegura.executor": "Run",
     "Python.contabancaria.executor": "Run",
     "Python.decisions.executor": "Run",
     "Python.dicionario.executor": "Run",
+    "Python.heroi.executor": "Run",
     "Python.initial-functions.executor": "Run",
     "Python.livro.executor": "Run",
     "Python.multiplos-valores.executor": "Run",
@@ -94,7 +100,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -178,7 +184,8 @@
       <workItem from="1777492146346" duration="1487000" />
       <workItem from="1777502153265" duration="5310000" />
       <workItem from="1777555916840" duration="2059000" />
-      <workItem from="1777932087556" duration="109000" />
+      <workItem from="1777932087556" duration="7306000" />
+      <workItem from="1778015718671" duration="13225000" />
     </task>
     <servers />
   </component>
@@ -186,7 +193,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/E_tech_School$Playermusical.coverage" NAME="Playermusical Coverage Results" MODIFIED="1777941628846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/Metodos, atributos, construtores, classes -  atividades" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_01.coverage" NAME="atividade_01 Coverage Results" MODIFIED="1776367686960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
+    <SUITE FILE_PATH="coverage/E_tech_School$Programador_atividade.coverage" NAME="Programador_atividade Coverage Results" MODIFIED="1777937917829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/Metodos, atributos, construtores, classes -  atividades" />
     <SUITE FILE_PATH="coverage/E_tech_School$while_active_01.coverage" NAME="while_active_01 Coverage Results" MODIFIED="1776382389797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão/ATIVIDADE-01" />
     <SUITE FILE_PATH="coverage/E_tech_School$args.coverage" NAME="args Coverage Results" MODIFIED="1776905924940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Funções" />
     <SUITE FILE_PATH="coverage/E_tech_School$ATIVIDIDADE_REVISAO.coverage" NAME="ATIVIDIDADE_REVISAO Coverage Results" MODIFIED="1777072923417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
@@ -194,13 +203,17 @@
     <SUITE FILE_PATH="coverage/E_tech_School$arquivos.coverage" NAME="arquivos Coverage Results" MODIFIED="1776989155814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
     <SUITE FILE_PATH="coverage/E_tech_School$dicionario.coverage" NAME="dicionario Coverage Results" MODIFIED="1776473272854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_revisao_2.coverage" NAME="atividade_revisao_2 Coverage Results" MODIFIED="1777076066014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
+    <SUITE FILE_PATH="coverage/E_tech_School$carro.coverage" NAME="carro Coverage Results" MODIFIED="1778021099612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/herança" />
     <SUITE FILE_PATH="coverage/E_tech_School$tipos_de_lista.coverage" NAME="tipos_de_lista Coverage Results" MODIFIED="1776465385085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade.coverage" NAME="atividade Coverage Results" MODIFIED="1776468417553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_05.coverage" NAME="atividade_05 Coverage Results" MODIFIED="1776902490478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
     <SUITE FILE_PATH="coverage/E_tech_School$decisions.coverage" NAME="decisions Coverage Results" MODIFIED="1776376797047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Estrutura de decisão" />
+    <SUITE FILE_PATH="coverage/E_tech_School$conta.coverage" NAME="conta Coverage Results" MODIFIED="1778022099410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/herança" />
     <SUITE FILE_PATH="coverage/E_tech_School$args2.coverage" NAME="args2 Coverage Results" MODIFIED="1776906270809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/Funções" />
     <SUITE FILE_PATH="coverage/E_tech_School$caso_uso_completo.coverage" NAME="caso-uso-completo Coverage Results" MODIFIED="1777002961890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
+    <SUITE FILE_PATH="coverage/E_tech_School$contaSegura.coverage" NAME="contaSegura Coverage Results" MODIFIED="1778027019613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/herança" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_metodos.coverage" NAME="atividade_metodos Coverage Results" MODIFIED="1777509313454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
+    <SUITE FILE_PATH="coverage/E_tech_School$heroi.coverage" NAME="heroi Coverage Results" MODIFIED="1778029272884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO/herança" />
     <SUITE FILE_PATH="coverage/E_tech_School$prova.coverage" NAME="prova Coverage Results" MODIFIED="1777055963258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/arquivos" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_metodos_com_if_else.coverage" NAME="atividade_metodos_com_if-else Coverage Results" MODIFIED="1777510847745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/POO" />
     <SUITE FILE_PATH="coverage/E_tech_School$atividade_03.coverage" NAME="atividade_03 Coverage Results" MODIFIED="1776887983400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Language_programing/list, tuple and dict" />
