@@ -1,0 +1,7 @@
+# config.py
+
+NOME_EMPRESA = "TechCorp Soluções"
+MOEDA = "R$"
+TETO_ISENCAO = 5000.00
+IMPOSTO_ALTO = 0.275  # 27,5 %
+IMPOSTO_BAIXO = 0.15 # 15%
