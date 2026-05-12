@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a3b4b4-844e-4e6b-802b-a1e557329e20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/APLICATIVO/financeiro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APLICATIVO/financeiro/pagamentos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APLICATIVO/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto_bruxo/jornada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto_bruxo/mutacoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="105" />
+    <option name="cachedIndexableFilesCount" value="106" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -235,7 +231,7 @@
       <workItem from="1778278255111" duration="5678000" />
       <workItem from="1778351219323" duration="1258000" />
       <workItem from="1778528180949" duration="13262000" />
-      <workItem from="1778592303590" duration="33000" />
+      <workItem from="1778592303590" duration="831000" />
     </task>
     <servers />
   </component>
